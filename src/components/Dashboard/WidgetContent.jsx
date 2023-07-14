@@ -8,9 +8,9 @@ function WidgetContent() {
             <img src ="" alt =''/>
             <div className='widget__contentTitle'>
                 <h5>
-                    Mobile App Programmer
+                    Machine Learning 
                 </h5>
-                <p>The best mobile</p>
+                
             </div>
         </div>
     </div>
